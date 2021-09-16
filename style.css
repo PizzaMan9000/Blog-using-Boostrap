@@ -1,0 +1,43 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey;
+}
+.movie_head {
+    padding:6px 22px;
+    font-size:22px;
+    border-radius: 15px;
+    width: 100%;
+    display:inline-block;
+    margin-bottom: 15px;
+    
+}
+.movie_head i {
+    float:right;
+}
+.environment_li {
+    margin-top: 15px;
+    
+}
+.enviroment_li h4 {
+    border-bottom: 2px solid white;
+    padding:8px;
+    
+}
+.imgEvironment {
+    
+    border: 5px solid black;
+    border-radius:15px;
+}
